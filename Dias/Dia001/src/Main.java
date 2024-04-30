@@ -1,6 +1,5 @@
 // Dia 001: Gerando um número aleatório dentro de um range específico
 import java.security.SecureRandom;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 
